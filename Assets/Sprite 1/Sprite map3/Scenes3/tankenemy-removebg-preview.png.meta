@@ -1,0 +1,886 @@
+fileFormatVersion: 2
+guid: 112e7e8db61ce3941b8d9a67aa4998ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5259662045802370222
+    second: tankenemy-removebg-preview_0
+  - first:
+      213: 9022169731428778987
+    second: tankenemy-removebg-preview_1
+  - first:
+      213: -592068113661985079
+    second: tankenemy-removebg-preview_2
+  - first:
+      213: -901376095850149397
+    second: tankenemy-removebg-preview_3
+  - first:
+      213: -8304639382519016683
+    second: tankenemy-removebg-preview_4
+  - first:
+      213: 1033819044387769350
+    second: tankenemy-removebg-preview_5
+  - first:
+      213: -4154514901494945830
+    second: tankenemy-removebg-preview_6
+  - first:
+      213: -5062698694851446410
+    second: tankenemy-removebg-preview_7
+  - first:
+      213: 2627867658676860902
+    second: tankenemy-removebg-preview_8
+  - first:
+      213: 2345660447318617844
+    second: tankenemy-removebg-preview_9
+  - first:
+      213: -1678596841112241381
+    second: tankenemy-removebg-preview_10
+  - first:
+      213: -4392914059187855252
+    second: tankenemy-removebg-preview_11
+  - first:
+      213: 5362212960196146008
+    second: tankenemy-removebg-preview_12
+  - first:
+      213: -2115652043655837802
+    second: tankenemy-removebg-preview_13
+  - first:
+      213: -2343718921687176011
+    second: tankenemy-removebg-preview_14
+  - first:
+      213: -4951247193501897980
+    second: tankenemy-removebg-preview_15
+  - first:
+      213: -8857862062071041505
+    second: tankenemy-removebg-preview_16
+  - first:
+      213: 5223828262885736200
+    second: tankenemy-removebg-preview_17
+  - first:
+      213: -8432791164090491453
+    second: tankenemy-removebg-preview_18
+  - first:
+      213: 804057760058321503
+    second: tankenemy-removebg-preview_19
+  - first:
+      213: 2632540503718486977
+    second: tankenemy-removebg-preview_20
+  - first:
+      213: 7815229889512133245
+    second: tankenemy-removebg-preview_21
+  - first:
+      213: 8281037527047652346
+    second: tankenemy-removebg-preview_22
+  - first:
+      213: 5026903027385462359
+    second: tankenemy-removebg-preview_23
+  - first:
+      213: 6688025413613009627
+    second: tankenemy-removebg-preview_24
+  - first:
+      213: -1459710456405670794
+    second: tankenemy-removebg-preview_25
+  - first:
+      213: 6240897778006644489
+    second: tankenemy-removebg-preview_26
+  - first:
+      213: 8186739649780619303
+    second: tankenemy-removebg-preview_27
+  - first:
+      213: -6188397925092243387
+    second: tankenemy-removebg-preview_28
+  - first:
+      213: 6590021810992489093
+    second: tankenemy-removebg-preview_29
+  - first:
+      213: 8198017528168606391
+    second: tankenemy-removebg-preview_30
+  - first:
+      213: 8860955373628432931
+    second: tankenemy-removebg-preview_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 291
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b68597c3de107b0800000000000000
+      internalID: -5259662045802370222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 291
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be30819b19f253d70800000000000000
+      internalID: 9022169731428778987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 294
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce7752003d88c7f0800000000000000
+      internalID: -592068113661985079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 294
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9c2dd673bad73f0800000000000000
+      internalID: -901376095850149397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 291
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5131c314b7effbc80800000000000000
+      internalID: -8304639382519016683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 291
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c44c681fcd85e00800000000000000
+      internalID: 1033819044387769350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 294
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7a35a65b23856c0800000000000000
+      internalID: -4154514901494945830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 294
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679bb804c5eadb9b0800000000000000
+      internalID: -5062698694851446410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 208
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7fb2866bf087420800000000000000
+      internalID: 2627867658676860902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 208
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe2c1ebfb57d8020800000000000000
+      internalID: 2345660447318617844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b796c011d64b8e0800000000000000
+      internalID: -1678596841112241381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 213
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60e94510fb3903c0800000000000000
+      internalID: -4392914059187855252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 208
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853bc7ee6486a6a40800000000000000
+      internalID: 5362212960196146008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 208
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697809deca1b3a2e0800000000000000
+      internalID: -2115652043655837802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 208
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc697bee00797fd0800000000000000
+      internalID: -2343718921687176011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 213
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b6b2c09e2a94bb0800000000000000
+      internalID: -4951247193501897980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 123
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b8d0b26d821580800000000000000
+      internalID: -8857862062071041505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 123
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f33f8c024ce7840800000000000000
+      internalID: 5223828262885736200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 126
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd55577d15b8fa80800000000000000
+      internalID: -8432791164090491453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 126
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a2c2fc546982b00800000000000000
+      internalID: 804057760058321503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 123
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3e7fce3a9a88420800000000000000
+      internalID: 2632540503718486977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 123
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72d26a7d26457c60800000000000000
+      internalID: 7815229889512133245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 126
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3ca5b81c72ce270800000000000000
+      internalID: 8281037527047652346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 126
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e65a37ba523c540800000000000000
+      internalID: 5026903027385462359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 39
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda3033dda3a0dc50800000000000000
+      internalID: 6688025413613009627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6744403e2111ebbe0800000000000000
+      internalID: -1459710456405670794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 39
+        width: 40
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9075c91a67f1c9650800000000000000
+      internalID: 6240897778006644489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 44
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72897c516542d9170800000000000000
+      internalID: 8186739649780619303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 39
+        width: 45
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548cc1aefd46e1aa0800000000000000
+      internalID: -6188397925092243387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 39
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582a842fbe5747b50800000000000000
+      internalID: 6590021810992489093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 39
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba6ae4c18535c170800000000000000
+      internalID: 8198017528168606391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tankenemy-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 44
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32226b707ff68fa70800000000000000
+      internalID: 8860955373628432931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

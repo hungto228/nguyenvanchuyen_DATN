@@ -1,0 +1,1414 @@
+fileFormatVersion: 2
+guid: f1016932f9082154ba07f1883a4ee64d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 691513563494591609
+    second: WarSpriteSheet_0
+  - first:
+      213: -3648541704304943079
+    second: WarSpriteSheet_1
+  - first:
+      213: 5684619126019574072
+    second: WarSpriteSheet_2
+  - first:
+      213: -4088947009772988511
+    second: WarSpriteSheet_3
+  - first:
+      213: -1012200886593609399
+    second: WarSpriteSheet_4
+  - first:
+      213: -21592354112317028
+    second: WarSpriteSheet_5
+  - first:
+      213: 1427930868323124109
+    second: WarSpriteSheet_6
+  - first:
+      213: 1945895211474645052
+    second: WarSpriteSheet_7
+  - first:
+      213: 2984506285627874464
+    second: WarSpriteSheet_8
+  - first:
+      213: 1899368691125135787
+    second: WarSpriteSheet_9
+  - first:
+      213: 5099716904955102178
+    second: WarSpriteSheet_10
+  - first:
+      213: 1771587857958763395
+    second: WarSpriteSheet_11
+  - first:
+      213: -5364860819022460926
+    second: WarSpriteSheet_12
+  - first:
+      213: 2626731631693491905
+    second: WarSpriteSheet_13
+  - first:
+      213: 3041100456170695193
+    second: WarSpriteSheet_14
+  - first:
+      213: -163778928325411910
+    second: WarSpriteSheet_15
+  - first:
+      213: -9131831486836925943
+    second: WarSpriteSheet_16
+  - first:
+      213: 443120944731981660
+    second: WarSpriteSheet_17
+  - first:
+      213: -3040334137033574843
+    second: WarSpriteSheet_18
+  - first:
+      213: -960827038366497936
+    second: WarSpriteSheet_19
+  - first:
+      213: -6576293690357208672
+    second: WarSpriteSheet_20
+  - first:
+      213: 3149994369036557501
+    second: WarSpriteSheet_21
+  - first:
+      213: 3558621897893061822
+    second: WarSpriteSheet_22
+  - first:
+      213: 8145708360520329486
+    second: WarSpriteSheet_23
+  - first:
+      213: 4089375211892526858
+    second: WarSpriteSheet_24
+  - first:
+      213: 7546092042282603967
+    second: WarSpriteSheet_25
+  - first:
+      213: -7178510246978447288
+    second: WarSpriteSheet_26
+  - first:
+      213: -526802060679278054
+    second: WarSpriteSheet_27
+  - first:
+      213: -6769116622352117787
+    second: WarSpriteSheet_28
+  - first:
+      213: -2005504283161530914
+    second: WarSpriteSheet_29
+  - first:
+      213: 8320401055783808072
+    second: WarSpriteSheet_30
+  - first:
+      213: 1219063384863124013
+    second: WarSpriteSheet_31
+  - first:
+      213: 3370868011488994779
+    second: WarSpriteSheet_32
+  - first:
+      213: -7450544712632633947
+    second: WarSpriteSheet_33
+  - first:
+      213: 3988009650415661003
+    second: WarSpriteSheet_34
+  - first:
+      213: -6538278934543790103
+    second: WarSpriteSheet_35
+  - first:
+      213: -7569659644626485675
+    second: WarSpriteSheet_36
+  - first:
+      213: 3549427467628174681
+    second: WarSpriteSheet_37
+  - first:
+      213: -2648478590299065802
+    second: WarSpriteSheet_38
+  - first:
+      213: -9185475186627025647
+    second: WarSpriteSheet_39
+  - first:
+      213: 3646910453063410222
+    second: WarSpriteSheet_40
+  - first:
+      213: -2290801125821299486
+    second: WarSpriteSheet_41
+  - first:
+      213: 1804301570408110530
+    second: WarSpriteSheet_42
+  - first:
+      213: -5577271460143185592
+    second: WarSpriteSheet_43
+  - first:
+      213: 3239884569721965450
+    second: WarSpriteSheet_44
+  - first:
+      213: 5048608994338437466
+    second: WarSpriteSheet_45
+  - first:
+      213: -6211408342291738931
+    second: WarSpriteSheet_46
+  - first:
+      213: -33901009336668436
+    second: WarSpriteSheet_47
+  - first:
+      213: 6661185467023722742
+    second: WarSpriteSheet_48
+  - first:
+      213: -1203769581503944742
+    second: WarSpriteSheet_49
+  - first:
+      213: -6280332387793413177
+    second: WarSpriteSheet_50
+  - first:
+      213: 1505947766385191846
+    second: WarSpriteSheet_51
+  - first:
+      213: -2025854680893265307
+    second: WarSpriteSheet_52
+  - first:
+      213: -4583042960324697538
+    second: WarSpriteSheet_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 223
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ca5751cefb89900800000000000000
+      internalID: 691513563494591609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 221
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910a4b696a6cd5dc0800000000000000
+      internalID: -3648541704304943079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 220
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839c9c90af2d3ee40800000000000000
+      internalID: 5684619126019574072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 220
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7d519db542147c0800000000000000
+      internalID: -4088947009772988511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 233
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941a04118a0f3f1f0800000000000000
+      internalID: -1012200886593609399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 222
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99554b4ed943bff0800000000000000
+      internalID: -21592354112317028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 221
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83073a2f8701d310800000000000000
+      internalID: 1427930868323124109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 220
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3074129265310b10800000000000000
+      internalID: 1945895211474645052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 220
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac15c877a81b6920800000000000000
+      internalID: 2984506285627874464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 219
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba92304e2c9eb5a10800000000000000
+      internalID: 1899368691125135787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 220
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e347ee6185d5c640800000000000000
+      internalID: 5099716904955102178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 206
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bf60245c1f59810800000000000000
+      internalID: 1771587857958763395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 205
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20841c4628f2c85b0800000000000000
+      internalID: -5364860819022460926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 128
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce6f538086047420800000000000000
+      internalID: 2626731631693491905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 193
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a2550a0c8243a20800000000000000
+      internalID: 3041100456170695193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 193
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb3873bee32abdf0800000000000000
+      internalID: -163778928325411910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a9b5e25a7354180800000000000000
+      internalID: -9131831486836925943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c570947c628462600800000000000000
+      internalID: 443120944731981660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 192
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546be93f5309ec5d0800000000000000
+      internalID: -3040334137033574843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 192
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073039736e47aa2f0800000000000000
+      internalID: -960827038366497936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 192
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ad973bbf4cb4a0800000000000000
+      internalID: -6576293690357208672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 192
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc97e2703707bb20800000000000000
+      internalID: 3149994369036557501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4a7d103c3c26130800000000000000
+      internalID: 3558621897893061822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 191
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e096eb8989e5b0170800000000000000
+      internalID: 8145708360520329486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 136
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f442ab61160c830800000000000000
+      internalID: 4089375211892526858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb518a64bba19b860800000000000000
+      internalID: 7546092042282603967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8481958b6fec06c90800000000000000
+      internalID: -7178510246978447288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129442215c60b8f0800000000000000
+      internalID: -526802060679278054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 170
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef8289db444f02a0800000000000000
+      internalID: -6769116622352117787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 169
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edde1a6ea740b24e0800000000000000
+      internalID: -2005504283161530914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 146
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c67c64da0087370800000000000000
+      internalID: 8320401055783808072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 145
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aa37d80bbfae010800000000000000
+      internalID: 1219063384863124013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 145
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd56789c89ab7ce20800000000000000
+      internalID: 3370868011488994779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 123
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5fd5cfe095a9890800000000000000
+      internalID: -7450544712632633947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 125
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfeaddc5a1485730800000000000000
+      internalID: 3988009650415661003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 126
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef091843fd5345a0800000000000000
+      internalID: -6538278934543790103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 99
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ebd63b8aa23f690800000000000000
+      internalID: -7569659644626485675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 99
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dddf3e979124130800000000000000
+      internalID: 3549427467628174681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 70
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6323ffd11c6be3bd0800000000000000
+      internalID: -2648478590299065802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 70
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1156ee70cf2a68080800000000000000
+      internalID: -9185475186627025647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 67
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22e0822cbd6c9230800000000000000
+      internalID: 3646910453063410222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e44b5463807530e0800000000000000
+      internalID: -2290801125821299486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 62
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9dadbf7ba2a0910800000000000000
+      internalID: 1804301570408110530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 63
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841cd3a182d8992b0800000000000000
+      internalID: -5577271460143185592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 63
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b0c8bb9d166fc20800000000000000
+      internalID: 3239884569721965450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 63
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a597265b123401640800000000000000
+      internalID: 5048608994338437466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 67
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce8dcaa505acc9a0800000000000000
+      internalID: -6211408342291738931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 67
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceee5fc263f878ff0800000000000000
+      internalID: -33901009336668436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 91
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f881f8c3e8417c50800000000000000
+      internalID: 6661185467023722742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5
+        width: 93
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7690781f95b4fe0800000000000000
+      internalID: -1203769581503944742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 5
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb513ac7f6c7d8a0800000000000000
+      internalID: -6280332387793413177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 9
+        width: 62
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abaea1c38336e410800000000000000
+      internalID: 1505947766385191846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 9
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a6bc2b6e7b2e3e0800000000000000
+      internalID: -2025854680893265307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 4
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32ed77a5b2c560c0800000000000000
+      internalID: -4583042960324697538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

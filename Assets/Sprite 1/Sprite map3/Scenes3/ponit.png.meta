@@ -1,0 +1,2412 @@
+fileFormatVersion: 2
+guid: ef07418657bfb76449c026974128c512
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4549209284515923158
+    second: ponit_0
+  - first:
+      213: -1841292454959566176
+    second: ponit_1
+  - first:
+      213: -1631623518908579652
+    second: ponit_2
+  - first:
+      213: 6685063088976909610
+    second: ponit_3
+  - first:
+      213: 1441347784679565082
+    second: ponit_4
+  - first:
+      213: 4451099072749264545
+    second: ponit_5
+  - first:
+      213: 4731384193565339204
+    second: ponit_6
+  - first:
+      213: 4727042242264445216
+    second: ponit_7
+  - first:
+      213: -4699491472286176974
+    second: ponit_8
+  - first:
+      213: -4143290006292188856
+    second: ponit_9
+  - first:
+      213: 2441549937528077873
+    second: ponit_10
+  - first:
+      213: 5125072171966935396
+    second: ponit_11
+  - first:
+      213: -1752572499512511768
+    second: ponit_12
+  - first:
+      213: -8353533195672592131
+    second: ponit_13
+  - first:
+      213: 5212632198486296166
+    second: ponit_14
+  - first:
+      213: 7099441485299518177
+    second: ponit_15
+  - first:
+      213: 7723102902934226460
+    second: ponit_16
+  - first:
+      213: 8857967352057332010
+    second: ponit_17
+  - first:
+      213: -7029228229817048431
+    second: ponit_18
+  - first:
+      213: 801664499063244834
+    second: ponit_19
+  - first:
+      213: 2136762960362973202
+    second: ponit_20
+  - first:
+      213: -3250193685250541367
+    second: ponit_21
+  - first:
+      213: 5197077955000254293
+    second: ponit_22
+  - first:
+      213: 7885701608152425900
+    second: ponit_23
+  - first:
+      213: -9211879374551851648
+    second: ponit_24
+  - first:
+      213: -5779280605439136494
+    second: ponit_25
+  - first:
+      213: -4593830242969675329
+    second: ponit_26
+  - first:
+      213: 6156188477909429166
+    second: ponit_27
+  - first:
+      213: -737650796430491566
+    second: ponit_28
+  - first:
+      213: -5013604125556306710
+    second: ponit_29
+  - first:
+      213: -7427108130849788842
+    second: ponit_30
+  - first:
+      213: 4868227930191894336
+    second: ponit_31
+  - first:
+      213: 1581128711534530215
+    second: ponit_32
+  - first:
+      213: 7246858408689923342
+    second: ponit_33
+  - first:
+      213: -8883943185086317049
+    second: ponit_34
+  - first:
+      213: -3168406024014006843
+    second: ponit_35
+  - first:
+      213: -6826647455199008448
+    second: ponit_36
+  - first:
+      213: -8638056129700561010
+    second: ponit_37
+  - first:
+      213: 7946503931269490771
+    second: ponit_38
+  - first:
+      213: -3282580416762652342
+    second: ponit_39
+  - first:
+      213: -2538195028127310519
+    second: ponit_40
+  - first:
+      213: -4054314199073012162
+    second: ponit_41
+  - first:
+      213: -589738896627882697
+    second: ponit_42
+  - first:
+      213: -4986101913660427139
+    second: ponit_43
+  - first:
+      213: 4820567665786444238
+    second: ponit_44
+  - first:
+      213: 517059186366694363
+    second: ponit_45
+  - first:
+      213: -4559544341777705483
+    second: ponit_46
+  - first:
+      213: -3458276727374179168
+    second: ponit_47
+  - first:
+      213: -4551236725767922312
+    second: ponit_48
+  - first:
+      213: 2486929511967083737
+    second: ponit_49
+  - first:
+      213: 6813018196322939519
+    second: ponit_50
+  - first:
+      213: -2943205585526925321
+    second: ponit_51
+  - first:
+      213: -8806494512207700336
+    second: ponit_52
+  - first:
+      213: -7493077159562262446
+    second: ponit_53
+  - first:
+      213: -4527253295913464807
+    second: ponit_54
+  - first:
+      213: 1523975859526717438
+    second: ponit_55
+  - first:
+      213: -4085592110582866468
+    second: ponit_56
+  - first:
+      213: -689658598532709255
+    second: ponit_57
+  - first:
+      213: -270542887513233998
+    second: ponit_58
+  - first:
+      213: 4894373973659837400
+    second: ponit_59
+  - first:
+      213: 4073788786368522785
+    second: ponit_60
+  - first:
+      213: -235328364750944517
+    second: ponit_61
+  - first:
+      213: 3353098463993772592
+    second: ponit_62
+  - first:
+      213: 5838076475907098462
+    second: ponit_63
+  - first:
+      213: -3711443064931772865
+    second: ponit_64
+  - first:
+      213: 75351310691057513
+    second: ponit_65
+  - first:
+      213: 6734703105085223447
+    second: ponit_66
+  - first:
+      213: 1375003441676679790
+    second: ponit_67
+  - first:
+      213: -8954394466810742482
+    second: ponit_68
+  - first:
+      213: -4746673317878555752
+    second: ponit_69
+  - first:
+      213: -8735614572263375049
+    second: ponit_70
+  - first:
+      213: -8329239155699839512
+    second: ponit_71
+  - first:
+      213: 6413714184875985375
+    second: ponit_72
+  - first:
+      213: -3573826169876119237
+    second: ponit_73
+  - first:
+      213: 8365958494329317772
+    second: ponit_74
+  - first:
+      213: -7192248667653179659
+    second: ponit_75
+  - first:
+      213: -4782666432815810079
+    second: ponit_76
+  - first:
+      213: 7490597242568218769
+    second: ponit_77
+  - first:
+      213: -4733051992753430181
+    second: ponit_78
+  - first:
+      213: 3060216498164530054
+    second: ponit_79
+  - first:
+      213: 2702714451303919275
+    second: ponit_80
+  - first:
+      213: -2016750830023545768
+    second: ponit_81
+  - first:
+      213: 6265034756174667987
+    second: ponit_82
+  - first:
+      213: 5848500231600500798
+    second: ponit_83
+  - first:
+      213: 7605003550463025185
+    second: ponit_84
+  - first:
+      213: -465962155620705377
+    second: ponit_85
+  - first:
+      213: 5607755130488285100
+    second: ponit_86
+  - first:
+      213: -8084688652953741628
+    second: ponit_87
+  - first:
+      213: 4262336229179259795
+    second: ponit_88
+  - first:
+      213: 3301283382737547665
+    second: ponit_89
+  - first:
+      213: 432561359501628246
+    second: ponit_90
+  - first:
+      213: 3246002888043158216
+    second: ponit_91
+  - first:
+      213: 1786237984219044870
+    second: ponit_92
+  - first:
+      213: -6662121716645020123
+    second: ponit_93
+  - first:
+      213: 5145498522024859912
+    second: ponit_94
+  - first:
+      213: -649340750919397067
+    second: ponit_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ponit_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 375
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bf48b2246fdd0c0800000000000000
+      internalID: -4549209284515923158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 375
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2378e844a6276e0800000000000000
+      internalID: -1841292454959566176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 375
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb00844ed0f4b59e0800000000000000
+      internalID: -1631623518908579652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 375
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255b8fd57d16cc50800000000000000
+      internalID: 6685063088976909610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 375
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a172f9f6c22b00410800000000000000
+      internalID: 1441347784679565082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 375
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae5a43160b75cd30800000000000000
+      internalID: 4451099072749264545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_6
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 375
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e2c592bd049a140800000000000000
+      internalID: 4731384193565339204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 375
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0213078dfd3d99140800000000000000
+      internalID: 4727042242264445216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 375
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239a769a76d08ceb0800000000000000
+      internalID: -4699491472286176974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 375
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841378df0b31086c0800000000000000
+      internalID: -4143290006292188856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_10
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 375
+        width: 133
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13efcb77bb022e120800000000000000
+      internalID: 2441549937528077873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 368
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46134529cf9ef1740800000000000000
+      internalID: 5125072171966935396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 366
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e23073e89c9da7e0800000000000000
+      internalID: -1752572499512511768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 356
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0608441d9421c80800000000000000
+      internalID: -8353533195672592131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 363
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6660a87ed5df65840800000000000000
+      internalID: 5212632198486296166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_15
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 361
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea03fa9a68468260800000000000000
+      internalID: 7099441485299518177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_16
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 362
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16ce25eb29fd2b60800000000000000
+      internalID: 7723102902934226460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 365
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21826b0062ddea70800000000000000
+      internalID: 8857967352057332010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_18
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 365
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1926b9cda2a237e90800000000000000
+      internalID: -7029228229817048431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 362
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228c4bf4d95102b00800000000000000
+      internalID: 801664499063244834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 356
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218a5a5679e47ad10800000000000000
+      internalID: 2136762960362973202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 361
+        width: 40
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c87c63401ef4e2d0800000000000000
+      internalID: -3250193685250541367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_22
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 362
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fbdc16ddabf1840800000000000000
+      internalID: 5197077955000254293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 366
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5e6a615d3af6d60800000000000000
+      internalID: 7885701608152425900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_24
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 363
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dd616f384d82080800000000000000
+      internalID: -9211879374551851648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 367
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dee77c8eedbcfa0800000000000000
+      internalID: -5779280605439136494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_26
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 367
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb99851bbbf6f30c0800000000000000
+      internalID: -4593830242969675329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_27
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 368
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabe424cdcc2f6550800000000000000
+      internalID: 6156188477909429166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_28
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 367
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2500a76428653c5f0800000000000000
+      internalID: -737650796430491566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_29
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 364
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec88cb6c991c6ab0800000000000000
+      internalID: -5013604125556306710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_30
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 367
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c6848618c9de890800000000000000
+      internalID: -7427108130849788842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_31
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 367
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04719b0728b6f8340800000000000000
+      internalID: 4868227930191894336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_32
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 367
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aecf2b9f2c41f510800000000000000
+      internalID: 1581128711534530215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_33
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 357
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05f383c353029460800000000000000
+      internalID: 7246858408689923342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_34
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 356
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e7d280eb4e5b480800000000000000
+      internalID: -8883943185086317049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 356
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5ff62128f8704d0800000000000000
+      internalID: -3168406024014006843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_36
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 289
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049e9020f40e241a0800000000000000
+      internalID: -6826647455199008448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_37
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 285
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fff4767b57f1880800000000000000
+      internalID: -8638056129700561010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_38
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 283
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358209d1937a74e60800000000000000
+      internalID: 7946503931269490771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_39
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 337
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a495538b08ee172d0800000000000000
+      internalID: -3282580416762652342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_40
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 331
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d1fc1e11586ccd0800000000000000
+      internalID: -2538195028127310519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_41
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 298
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e364e6477be2cb7c0800000000000000
+      internalID: -4054314199073012162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_42
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 298
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735a34c1993d0d7f0800000000000000
+      internalID: -589738896627882697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_43
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 295
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74ff5e1abecdcab0800000000000000
+      internalID: -4986101913660427139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_44
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 326
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec95fe660c816e240800000000000000
+      internalID: 4820567665786444238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 309
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd34d3b2796fc2700800000000000000
+      internalID: 517059186366694363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_46
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 304
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f592b2249e39b0c0800000000000000
+      internalID: -4559544341777705483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_47
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 303
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a49cd1a3abb100d0800000000000000
+      internalID: -3458276727374179168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_48
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 296
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d14e7bf42c6d0c0800000000000000
+      internalID: -4551236725767922312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_49
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 296
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dccb3ef639538220800000000000000
+      internalID: 2486929511967083737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_50
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 293
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72f910e3f3bc8e50800000000000000
+      internalID: 6813018196322939519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_51
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 227
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7d8bd1d12a727d0800000000000000
+      internalID: -2943205585526925321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 221
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ede6366eb09c580800000000000000
+      internalID: -8806494512207700336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_53
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 218
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258c2bdf50e330890800000000000000
+      internalID: -7493077159562262446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 206
+        width: 13
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c8cd02d17fb21c0800000000000000
+      internalID: -4527253295913464807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_55
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 205
+        width: 17
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff4c5948ff362510800000000000000
+      internalID: 1523975859526717438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_56
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 205
+        width: 14
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddd19f2f9f0d47c0800000000000000
+      internalID: -4085592110582866468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_57
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 204
+        width: 13
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9740a2a9827dd66f0800000000000000
+      internalID: -689658598532709255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_58
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 205
+        width: 17
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5e34d5da6de3cf0800000000000000
+      internalID: -270542887513233998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d369e1923f4ce340800000000000000
+      internalID: 4894373973659837400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 163
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a277d3151098830800000000000000
+      internalID: 4073788786368522785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_61
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 160
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6427d5912fbbcf0800000000000000
+      internalID: -235328364750944517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_62
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 157
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ab14b9949988e20800000000000000
+      internalID: 3353098463993772592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_63
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 156
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57c1069f93050150800000000000000
+      internalID: 5838076475907098462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_64
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 153
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3697ae423e4e7cc0800000000000000
+      internalID: -3711443064931772865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_65
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 151
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fb91b2e93bb0100800000000000000
+      internalID: 75351310691057513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_66
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 146
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7123356cac8767d50800000000000000
+      internalID: 6734703105085223447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_67
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 148
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6af31a585ef41310800000000000000
+      internalID: 1375003441676679790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 98
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29b503cca99bb380800000000000000
+      internalID: -8954394466810742482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_69
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 91
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b160f24cd602eb0800000000000000
+      internalID: -4746673317878555752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_70
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 119
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ff38d64dcd4c680800000000000000
+      internalID: -8735614572263375049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 102
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed8c3b3e19986c80800000000000000
+      internalID: -8329239155699839512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_72
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 101
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9ca60e117120950800000000000000
+      internalID: 6413714184875985375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_73
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 100
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b310a8f8808376ec0800000000000000
+      internalID: -3573826169876119237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_74
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 99
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8929240dead91470800000000000000
+      internalID: 8365958494329317772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_75
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 104
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6714461ffff2c90800000000000000
+      internalID: -7192248667653179659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_76
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 104
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e934d0183e80adb0800000000000000
+      internalID: -4782666432815810079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_77
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 107
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1989cc65182f3f760800000000000000
+      internalID: 7490597242568218769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_78
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 106
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b512a741a42d05eb0800000000000000
+      internalID: -4733051992753430181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_79
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 87
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bf2ecf0b2187a20800000000000000
+      internalID: 3060216498164530054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_80
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 87
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baee84f4978f18520800000000000000
+      internalID: 2702714451303919275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_81
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ce8f72ecf0304e0800000000000000
+      internalID: -2016750830023545768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_82
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 25
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0644bcaefd1f650800000000000000
+      internalID: 6265034756174667987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_83
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 53
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30765559fb0a2150800000000000000
+      internalID: 5848500231600500798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_84
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 34
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120eee4af666a8960800000000000000
+      internalID: 7605003550463025185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_85
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 34
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bd37363e19889f0800000000000000
+      internalID: -465962155620705377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_86
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 49
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7e02c749fb2dd40800000000000000
+      internalID: 5607755130488285100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_87
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 48
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c69f01318a6dcf80800000000000000
+      internalID: -8084688652953741628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_88
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 35
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bf185b73cd62b30800000000000000
+      internalID: 4262336229179259795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_89
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 23
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191b8f2eeb380dd20800000000000000
+      internalID: 3301283382737547665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_90
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 23
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65397a0c344c00600800000000000000
+      internalID: 432561359501628246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_91
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 39
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca54b9bd6e1c0d20800000000000000
+      internalID: 3246002888043158216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_92
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 38
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c9fa59bfdf9c810800000000000000
+      internalID: 1786237984219044870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_93
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 35
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e35fc98936b83a0800000000000000
+      internalID: -6662121716645020123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_94
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 22
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809d69dc4ab786740800000000000000
+      internalID: 5145498522024859912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ponit_95
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 22
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531934307041df6f0800000000000000
+      internalID: -649340750919397067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

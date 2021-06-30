@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 1697668761f84ec46acef7bc8a47c3e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4432089631076403224
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_0
+  - first:
+      213: -8951556143625802994
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_1
+  - first:
+      213: 5410051557702765779
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_2
+  - first:
+      213: -6991823364298721247
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_3
+  - first:
+      213: -6495568367417965669
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_4
+  - first:
+      213: -4168492314541138381
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_5
+  - first:
+      213: -5114062829628149805
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_6
+  - first:
+      213: -3978466467720284003
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_7
+  - first:
+      213: 6642943795632756982
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_8
+  - first:
+      213: 735112793172085319
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_9
+  - first:
+      213: 7187228406221131344
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_10
+  - first:
+      213: 2780672680728731855
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_11
+  - first:
+      213: -5383503996833602479
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_12
+  - first:
+      213: -4971529068714749554
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_13
+  - first:
+      213: -339279196807895784
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_14
+  - first:
+      213: -3594512722227929549
+    second: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 665
+        width: 227
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81840098902f18d30800000000000000
+      internalID: 4432089631076403224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 687
+        width: 217
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0be7306d1fa5c380800000000000000
+      internalID: -8951556143625802994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 676
+        width: 321
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc0c616a3d541b40800000000000000
+      internalID: 5410051557702765779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 446
+        width: 400
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128b2b6c1bd08fe90800000000000000
+      internalID: -6991823364298721247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 450
+        width: 176
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93c9cd1cfa1bd5a0800000000000000
+      internalID: -6495568367417965669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 457
+        width: 195
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e54d6535a8626c0800000000000000
+      internalID: -4168492314541138381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 221
+        width: 192
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df2cf0b3f23709b0800000000000000
+      internalID: -5114062829628149805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_7
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 226
+        width: 218
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98bab093d5a9c8c0800000000000000
+      internalID: -3978466467720284003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_8
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 268
+        width: 145
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f85391bf2a703c50800000000000000
+      internalID: 6642943795632756982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 12
+        width: 327
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a0edac035a33a00800000000000000
+      internalID: 735112793172085319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_10
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 243
+        width: 52
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e4868e72a2eb360800000000000000
+      internalID: 7187228406221131344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 243
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0287b021fe69620800000000000000
+      internalID: 2780672680728731855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_12
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 243
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15466dd43a3f945b0800000000000000
+      internalID: -5383503996833602479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_13
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 243
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e819abcf6a4910bb0800000000000000
+      internalID: -4971529068714749554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_14
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 243
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815e59a3e53aa4bf0800000000000000
+      internalID: -339279196807895784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pnghut_isometric-graphics-in-video-games-and-pixel-art-2d-computer-sprite-mountain-rendering-mountains_ieKzx4aFbH_15
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 243
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e5bf249b9bd1ec0800000000000000
+      internalID: -3594512722227929549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

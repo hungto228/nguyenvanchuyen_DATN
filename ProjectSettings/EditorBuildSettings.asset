@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Animation/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: c4fc87e75820b874f96d2502935a4e08
+  - enabled: 1
+    path: Assets/Scenes/Chonmap.unity
+    guid: 3775781b4fa52f043a008bd03c870fd5
+  - enabled: 1
+    path: Assets/Scenes/map1.unity
+    guid: eec62be8549563d428cb053c801b0631
+  - enabled: 1
+    path: Assets/Scenes/map2.unity
+    guid: 1a30e7cf0dddd8e418e82f2aed323d43
+  - enabled: 1
+    path: Assets/Scenes/map3.unity
+    guid: 0f096863c02a57f46a6d200e63fdb4de
+  - enabled: 1
+    path: Assets/Scenes/Winner.unity
+    guid: 3db44ecd29732b345af9e41e4d5a3f6b
+  m_configObjects: {}
